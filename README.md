@@ -1,6 +1,6 @@
 <h1 align="center">Hej 👋, Jestem Kasperkiewicz</h1>
 <h3 align="center">Programista z Polski</h3>
-<img align="right" alt="Zachód Słońca" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.deviantart.com/archipics/art/Liberty-Sunset-888004422)">
+<img align="right" alt="Zachód Słońca" width="400" src="https://www.deviantart.com/archipics/art/Liberty-Sunset-888004422">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasper74&label=Profile%20views&color=0e75b6&style=flat" alt="kasper74" /> </p>
 
 - ☀️ Obecnie pracuję nad **Zgadnij-Liczbe**
