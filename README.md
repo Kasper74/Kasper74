@@ -1,4 +1,4 @@
-<img align="right" alt="Zachód Słońca" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/831329771678673548/49C66203D4484F804076D9E21376CE55F8BC2DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="center" alt="Zachód Słońca" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/831329771678673548/49C66203D4484F804076D9E21376CE55F8BC2DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <h1 align="center">Hej 👋, Jestem Kasperkiewicz</h1>
 <h3 align="center">Programista z Polski</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasper74&label=Profile%20views&color=0e75b6&style=flat" alt="kasper74" /> </p>
