@@ -2,7 +2,7 @@
 <h1 align="center">Hej 👋, Jestem Kasperkiewicz</h1>
 <h3 align="center">Programista z Polski</h3>
 
-- ☀️ Obecnie pracuję nad **Zgadnij-Liczbe**
+- ☀️ Obecnie pracuję nad **Gra-w-Oczko**
 
 - 🌻 Obecnie ucze się **Pythona**
 
